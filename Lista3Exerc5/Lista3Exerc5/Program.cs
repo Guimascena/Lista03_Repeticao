@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lista3Exerc5
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int valor;
+
+            do
+            {
+                Console.WriteLine("Digite um valor positivo:");
+                valor = int.Parse(Console.ReadLine());
+
+                if (valor <= 0)
+                {
+                    Console.WriteLine("Valor inválido!");
+                }
+
+            } while (valor <= 0);
+
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine($"{valor} x {i} = {valor * i}");
+            }
+        }
+    }
+}
