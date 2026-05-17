@@ -1,0 +1,7 @@
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\bin\Debug\Lista3Exerc12.exe.config
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\bin\Debug\Lista3Exerc12.exe
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\bin\Debug\Lista3Exerc12.pdb
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\obj\Debug\Lista3Exerc12.csproj.AssemblyReference.cache
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\obj\Debug\Lista3Exerc12.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\obj\Debug\Lista3Exerc12.exe
+C:\Users\Guilherme Mascena\source\repos\Lista3Exerc12\Lista3Exerc12\obj\Debug\Lista3Exerc12.pdb
